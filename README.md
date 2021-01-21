@@ -1,0 +1,2 @@
+# CSharpWithSelenium
+ Selenium Overview: Selenium is an open-source, web Automation Testing tool that supports multiple browsers and multiple operating systems. It allows testers to use multiple programming languages such as Java, C#, Python, .Net, Ruby, PHP, and Perl for coding automated tests.  C# Overview: C# is an object-oriented programming language derived from C++ and Java. C# allows developers to build applications using Visual Studio on .Net platform. The following are the key features of C#.
