@@ -97,3 +97,5 @@ C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\ref\Royale.Tests.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.pdb
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.genruntimeconfig.cache
+c:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\WebDriver.Support.dll
+c:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\WebDriver.dll
