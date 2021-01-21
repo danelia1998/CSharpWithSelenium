@@ -1,0 +1,12 @@
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\bin\Debug\net5.0\Framework.deps.json
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\bin\Debug\net5.0\Framework.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\bin\Debug\net5.0\ref\Framework.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\bin\Debug\net5.0\Framework.pdb
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.csprojAssemblyReference.cache
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.AssemblyInfoInputs.cache
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.AssemblyInfo.cs
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\ref\Framework.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Framework\obj\Debug\net5.0\Framework.pdb

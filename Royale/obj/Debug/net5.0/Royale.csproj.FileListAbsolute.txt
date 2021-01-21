@@ -1,0 +1,12 @@
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\bin\Debug\net5.0\Royale.deps.json
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\bin\Debug\net5.0\Royale.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\bin\Debug\net5.0\ref\Royale.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\bin\Debug\net5.0\Royale.pdb
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.csprojAssemblyReference.cache
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.AssemblyInfoInputs.cache
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.AssemblyInfo.cs
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.csproj.CoreCompileInputs.cache
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\ref\Royale.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale\obj\Debug\net5.0\Royale.pdb
