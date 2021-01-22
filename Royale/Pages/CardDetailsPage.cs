@@ -4,12 +4,12 @@ namespace Royale.Pages
     public class CardDetailsPage : PageBase
     {
 
-        public readonly CardsDetailsPageMap Map;
+        public readonly CardDetailsPageMap Map;
 
 
         public CardDetailsPage(IWebDriver driver) : base(driver)
         {
-            Map = new CardsDetailsPageMap(driver);
+            Map = new CardDetailsPageMap(driver);
         }
 
         public (string Category, string Arena) GetCardCategory(){
