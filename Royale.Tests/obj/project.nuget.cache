@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gysZtVm+TxKSrMSxi5rl/XUQsJX6Dwlk7VuaM05b9OjuzYa6PLMCnyPZyTaELsMkVJOjkEGTVG2PjjrKvZgSJg==",
+  "dgSpecHash": "4mpawRch4gltakBIDUdccfzgBEqH0CE3DFOmQTj3V+yG/0YP1tJoxm+1m20SgQpJWt9G38zzo4ACvcmI+RWfYQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj",
+  "projectFilePath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danel\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\danel\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

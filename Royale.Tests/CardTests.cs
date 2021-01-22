@@ -1,7 +1,9 @@
+using System;
 using System.IO;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 
 namespace Royale.Tests
 {
@@ -21,16 +23,21 @@ namespace Royale.Tests
             driver.Quit();
         }
 
+
         [Test]
         public void Ice_Spirit_Is_On_Cards_Page()
         {
             //1. go to statsroyale.com 
-
+            driver.Manage().Window.Maximize();
             driver.Url = "https://statsroyale.com";
 
+
             //2. click Cards link in header nav
+            // var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            // wait.Until( d => driver.FindElements(By.CssSelector("a[href='/cards']")).Count > 0 );
             driver.FindElement(By.CssSelector("a[href='/cards']")).Click();
             //3. Assert ice spirit is displayed
+            // wait.Until( d => driver.FindElements(By.CssSelector("s[href[href*='/Ice+Spirit']")).Count > 0 );
             var iceSpirit = driver.FindElement(By.CssSelector("s[href[href*='/Ice+Spirit']"));
             Assert.That(iceSpirit.Displayed);
 
@@ -41,8 +48,9 @@ namespace Royale.Tests
         public void Ice_Spirit_Header_Are_correct_On_Card_Details_Page()
         {
             //1. go to statsroyale.com 
-
+            driver.Manage().Window.Maximize();
             driver.Url = "https://statsroyale.com";
+
 
             //2. click Cards link in header nav
             driver.FindElement(By.CssSelector("a[href='/cards']")).Click();

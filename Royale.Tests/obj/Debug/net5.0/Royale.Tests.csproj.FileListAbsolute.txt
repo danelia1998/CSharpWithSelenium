@@ -21,6 +21,8 @@ C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\WebDriver.Support.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\WebDriver.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -87,6 +89,10 @@ C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\Framework.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\Royale.dll
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\Royale.pdb
+C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\Framework.pdb
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.csprojAssemblyReference.cache
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.AssemblyInfoInputs.cache
@@ -97,5 +103,3 @@ C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\ref\Royale.Tests.dll
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.pdb
 C:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\obj\Debug\net5.0\Royale.Tests.genruntimeconfig.cache
-c:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\WebDriver.Support.dll
-c:\Users\danel\Desktop\Projects\CSharpWithSelenium\Royale.Tests\bin\Debug\net5.0\WebDriver.dll

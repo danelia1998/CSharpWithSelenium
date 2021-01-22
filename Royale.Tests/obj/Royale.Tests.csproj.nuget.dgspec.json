@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj": {}
+    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj": {
+    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj",
-        "projectName": "Royale.Tests",
-        "projectPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj",
         "packagesPath": "C:\\Users\\danel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\obj\\",
+        "outputPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,72 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj",
+        "projectName": "Royale.Tests",
+        "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\Royale.Tests.csproj",
+        "packagesPath": "C:\\Users\\danel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj": {
+                "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
@@ -49,16 +115,64 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[3.16.1, )"
-            },
-            "Selenium.Support": {
-              "target": "Package",
-              "version": "[3.141.0, )"
-            },
-            "Selenium.WebDriver": {
-              "target": "Package",
-              "version": "[3.141.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
+        "projectName": "Royale",
+        "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
+        "packagesPath": "C:\\Users\\danel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj": {
+                "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
