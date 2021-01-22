@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EDM4ieIcO/i4747Jjk3HOgmtxCWBapRWgCtfj4NWXZ9uKJl92sBP5x8mgGsq5QyPm9iC93sPpFS0BN3lsebxag==",
+  "dgSpecHash": "CwpnJH2L//7w5+waGB63G3sir+LMcxyQzw7r6betDgas64wKI+zcQJPzrfIzXk+9Z7IukUA1O2riXBqF47TnKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
+  "projectFilePath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danel\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\danel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

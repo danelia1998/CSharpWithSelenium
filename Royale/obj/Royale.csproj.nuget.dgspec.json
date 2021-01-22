@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj": {}
+    "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj": {
+    "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj",
+        "projectUniqueName": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj",
         "projectName": "Framework",
-        "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj",
+        "projectPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj",
         "packagesPath": "C:\\Users\\danel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\obj\\",
+        "outputPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj": {
+    "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
+        "projectUniqueName": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
         "projectName": "Royale",
-        "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
+        "projectPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\Royale.csproj",
         "packagesPath": "C:\\Users\\danel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\obj\\",
+        "outputPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Royale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj": {
-                "projectPath": "C:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj"
+              "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj": {
+                "projectPath": "c:\\Users\\danel\\Desktop\\Projects\\CSharpWithSelenium\\Framework\\Framework.csproj"
               }
             }
           }
@@ -103,6 +103,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
